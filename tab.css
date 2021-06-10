@@ -1,0 +1,16 @@
+.navbar ul{
+	flex-wrap: wrap;
+	justify-content: center;
+}
+#pic{
+	flex-direction: column;
+	align-items: center;
+}
+#pic img{
+	width: 475px;
+	height: 300px;
+}
+#info h2{
+	text-align: center;
+	padding: 10px;
+}

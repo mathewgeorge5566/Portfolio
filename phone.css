@@ -1,0 +1,31 @@
+#home{
+	height: 820px;
+}
+.heading{
+	font-size: 1.7rem;
+}
+.head{
+	font-size: 1.7rem;
+}
+#pic img{
+	width: 300px;
+	height: 175px;
+}
+#info h2{
+	font-size: 1.5rem;
+}
+.photo img{
+	height: 150px;
+	width: 270px;
+	border: 3px solid white;
+	margin: 10px;
+}
+.input{
+	width: 80%;
+}
+#msg{
+	width: 70%;
+}
+#send{
+	width: 20%;
+}
